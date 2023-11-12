@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @edoardocarradori
-- 👀 I’m interested in Music!
-- 🌱 I’m currently learning Web Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h2> Hi there 👋, I'm Edoardo Carradori! </h2>
 
-<!---
-edoardocarradori/edoardocarradori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an avid learner and life enthusiast, currently focusing on Fullstack and Web3 Technologies and Protocols.
+
+I'm here to to seize the best growth opportunities to develop the skills of the future.
+
+The values that guide me are respect, humble and determination.
